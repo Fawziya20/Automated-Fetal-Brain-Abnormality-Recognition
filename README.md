@@ -30,6 +30,10 @@ streamlit run app.py
 
 5. Load ultrasound images by clicking on the "Browse files" button within the application interface.
 
+## System Architecture:
+![architec](https://github.com/Fawziya20/Automated-Fetal-Brain-Abnormality-Recognition/assets/75235022/164af627-c6d8-46cd-a8a5-eed9c628b850)
+
+
 ## Results 🖥️
 Detected Output🧠
 ![Detected image](https://github.com/Fawziya20/Automated-Fetal-Brain-Abnormality-Recognition/assets/75235022/058f8860-8027-4d7e-b63b-63c66edaaae7)
