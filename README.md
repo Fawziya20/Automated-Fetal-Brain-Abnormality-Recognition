@@ -1,6 +1,6 @@
 # Automated Fetal Brain Abnormality Recognition
 Hi!!!fdafa
-Automated Fetal Brain Abnormality Recognition is an innovative project leveraging advanced deep learning techniques to detect abnormalities in fetal brain ultrasound images, revolutionizing early diagnosis and intervention in prenatal care.
+Automated Fetal Brain  Recognition is an innovative project leveraging advanced deep learning techniques to detect abnormalities in fetal brain ultrasound images, revolutionizing early diagnosis and intervention in prenatal care.
 
 ## Features ⭐
 - High Precision Detection
