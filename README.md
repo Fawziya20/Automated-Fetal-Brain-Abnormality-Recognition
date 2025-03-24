@@ -11,7 +11,6 @@ Automated Fetal Brain  Recognition is an innovative project leveraging advanced 
 
 ## Requirements 🛠️
 - OpenCV
-- NumPy
 - Streamlit
 - TensorFlow or PyTorch
 - YOLOv8 Implementation
