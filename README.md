@@ -6,7 +6,7 @@ hiiiiii
 - High Precision Detection
 - Real-time Analysis
 - Efficient Early Diagnosis
-vieeeeee
+
 
 ## Requirements 🛠️
 - OpenCV
