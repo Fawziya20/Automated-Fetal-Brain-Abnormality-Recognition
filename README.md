@@ -8,10 +8,7 @@ Automated Fetal Brain  Recognition is an innovative project leveraging advanced 
 - Efficient Early Diagnosis
 
 
-## Requirements 🛠️
-- OpenCV
-- Streamlit
-- TensorFlow or PyTorch
+huh
 - YOLOv8 Implementation
 
 ## Usage 🚀
