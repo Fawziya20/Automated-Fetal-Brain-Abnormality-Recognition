@@ -4,7 +4,7 @@ Automated Fetal Brain  Recognition is an innovative project leveraging advanced 
 
 ## Features ⭐
 - High Precision Detection
-- Real-time Analysis
+- Real-time Analysisnb bnb
 - Efficient Early Diagnosis
 
 
