@@ -8,7 +8,7 @@ Automated Fetal Brain  Recognition is an innovative project leveraging advanced 
 - YOLOv8 Implementation
 ddddsss
 ## Usage 🚀
-1. Clone the repository:
+1. Clone the repository:ggggg
 
 ```
 git clone https://github.com/YourGitHubUsername/automated-fetal-brain-recognition.git
