@@ -14,8 +14,7 @@ ddddsss
 git clone https://github.com/YourGitHubUsername/automated-fetal-brain-recognition.git
 ```
 
-2. Navigate to the project directory
-3. Install the required dependencies
+2. Navigate to the pr
 4. Run the application:
 ```
 streamlit run app.py
