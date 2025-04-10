@@ -5,8 +5,7 @@ ssssss
 ##
 - Real-time Analysisnb bnb
 - Efficient Early Diagnosis
-- YOLOv8 Implementation
-ddddsss
+- YOLOv8 Implementationdddds
 ## 
 1. Clone the repodff
 
