@@ -8,7 +8,7 @@ ssssss
 - YOLOv8 Implementation
 ddddsss
 ## 
-1. Clone the repository:ggggg
+1. Clone the repodff
 
 ```dddd
 git clone https://github.com/YourGitHubUsername/automated-fetal-brain-recognition.git
