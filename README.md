@@ -7,7 +7,7 @@ ssssss
 - Efficient Early Diagnosis
 - YOLOv8 Implementation
 ddddsss
-## Usage 🚀
+## Usage 🚀eeeee
 1. Clone the repository:ggggg
 
 ```dddd
