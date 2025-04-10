@@ -7,10 +7,7 @@ ssssss
 - Efficient Early Diagnosis
 - YOLOv8 Implementationdddds
 ## 
-1. Clone the repodff
-
-```dddd
-git clone https://github.com/YourGitHubUsername/automated-fetal-brain-recognition.git
+1. fygfhggy.com/YourGitHubUsername/automated-fetal-brain-recognition.git
 ```
 
 2. Navigate to the pr
