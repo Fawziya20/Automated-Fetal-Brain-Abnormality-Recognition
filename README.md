@@ -5,7 +5,7 @@ ssssss
 ##
 - Real-time Analysisnb bnb
 - Efficient Early Diagnosis
-- YOLOv8 Implementationdddds
+- YOLOv8
 ## 
 1. fygfhggy.com/YourGitHubUsername/automated-fetal-brain-recognition.git
 ```
