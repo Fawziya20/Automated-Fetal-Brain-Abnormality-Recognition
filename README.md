@@ -4,9 +4,7 @@ Automated Fetal Brain  Recognition is an innovative project leveraging advanced 
 ssssss
 ##
 - Real-time Analysisnb bnb
-- Efficient Early Diagnosis
-- YOLOv8
-## 
+
 1. fygfhggy.com/YourGitHubUsername/automated-fetal-brain-recognition.git
 ```
 
