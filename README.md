@@ -5,7 +5,7 @@ nhu
 1.com/YourGitHubUsername/automated-fetal-brain-recognition.git
 ```
 
-streamlit run app.py
+streamlit run app.pyds
 ```
 
 5. Load ultrasound images by clicking on the "Browse files" button within the application interface.
