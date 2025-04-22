@@ -5,9 +5,6 @@ nhu
 1. fygfhggy.com/YourGitHubUsername/automated-fetal-brain-recognition.git
 ```
 
-2. Navigate to the pr
-4. Run the application:
-```
 streamlit run app.py
 ```
 
