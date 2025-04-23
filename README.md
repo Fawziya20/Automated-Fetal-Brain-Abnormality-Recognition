@@ -2,7 +2,7 @@
 
 Automated Fetal Brain  Recognition is an innovative project leveraging advanced deep learning techniques to detect abnormalities in fetal brain ultrasound images, revolutionizing early diagnosis and intervention in prensds
 nhu
-1.com/YourGitHubUsername/automated-fetal-brain-r
+
 ```
 
 new changess
