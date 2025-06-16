@@ -1,15 +1,6 @@
 # Automated Fetal Brain Abnormality Recognition
 
-Automated Fetal Brain  Recognition is an innovative project leveraging advanced deep learning techniques to detect abnormalities in fetal brain ultrasound images, revolutionizing early diagnosis and intervention in prensds
-nhuI'M FAWFJTFUJSGIJDFIGHSSFGSF
-```
 
-new changessDFSDGSDG
-
-streamlit run app.pyds
-```
-
-5. Load ultrasound images by clicking on the "Browse files" button within the application interface.
 
 ## System Architecture:
 ![architec](https://github.com/Fawziya20/Automated-Fetal-Brain-Abnormality-Recognition/assets/75235022/164af627-c6d8-46cd-a8a5-eed9c628b850)
